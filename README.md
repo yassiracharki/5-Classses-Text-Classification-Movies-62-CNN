@@ -1,6 +1,6 @@
 # **5 Classses Text Classification on Movies Reviews 63% cnn**
 
-#picture
+![13](https://github.com/user-attachments/assets/7e51acbc-7383-426e-867c-28c9561ebf25)
 
 1. Download and Imports
 2. Functions
